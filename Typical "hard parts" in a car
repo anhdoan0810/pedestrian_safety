@@ -1,0 +1,46 @@
+n pedestrian safety simulations for Euro NCAP (specifically for Pedestrian Protection), the term "hard parts" refers to rigid or less deformable components beneath the vehicle's exterior surface that pose a higher injury risk to pedestrians upon impact.
+
+When defining target points (like headform impact points), identifying hard parts is essential because impacts in these areas typically receive lower safety scores due to the greater potential for injury.
+
+🔧 Typical "hard parts" in a car (relevant to pedestrian simulations):
+1. Under the Hood (Bonnet)
+Engine block
+
+Battery
+
+Brake master cylinder
+
+Shock towers / suspension strut mounts
+
+Inverter (for EVs)
+
+Radiator fans (if mounted high)
+
+Bonnet latch system
+
+HV components (in electric vehicles)
+
+2. Cowl Area / Lower Windshield Edge
+Wiper motor and linkage
+
+HVAC unit
+
+Firewall (bulkhead)
+
+3. Fenders (Wheel Arches)
+Strut tops / mounts
+
+Suspension components close to upper edge
+
+4. Front Bumper Area
+Crash box or front longitudinal members (if too close to bumper skin)
+
+Tow hooks
+
+Reinforcement beams
+
+Radar or sensor modules (if rigidly mounted)
+
+5. A-pillars and Roof Edge
+These are inherently hard structures and are excluded from headform testing, but may still be included in legform impact evaluations in some setups.
+
