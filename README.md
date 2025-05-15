@@ -1,3 +1,6 @@
+Only Head --> can't find the model of legform (lower, upper) 
+Child, aldult --> regulation and evaluation protocol
+
 # pedestrian_safety
 Dynamic_relaxation
 
